@@ -1,6 +1,6 @@
 # SQL Injection (SQLi)
 
-SQL Injection (SQLi) is a **server-side attack** that occurs when an application includes user input directly in an SQL query without handling it safely. It mainly affects **database-driven applications**, including web applications and APIs.
+SQL Injection (SQLi) is a **server-side attack** that occurs when an application includes user input directly in an SQL query without handling it safely. It mainly affects **database-driven applications**, including web applications.
 
 ### How It Works
 
